@@ -1,0 +1,12 @@
+.filter_main {
+  display: flex;
+  align-items: center;
+  width: 30vw;
+}
+@media screen and (max-width: 426px) {
+  .filter_main {
+    display: flex;
+    align-items: center;
+    width: 80vw;
+  }
+}

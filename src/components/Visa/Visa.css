@@ -1,0 +1,133 @@
+* {
+  border: none;
+  text-transform: capitalize;
+}
+.form-payment {
+  padding-top: 25%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 25px;
+  min-height: 90vh;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 100%;
+  /* background: black; */
+  padding-bottom: 70px;
+}
+.container form {
+  padding: 20px;
+  width: 700px;
+  background: #fff;
+  box-shadow: 0 5px 10px rgba(0, 0, 0, 0.1);
+}
+
+.container form .row .col {
+  flex: 1 1 250px;
+}
+.container form .row .col .title {
+  font-size: 20px;
+  color: #333;
+  padding-bottom: 5px;
+  text-transform: uppercase;
+}
+.container form .row .col .inputBox {
+  margin: 15px 0;
+}
+.container form .row .col .inputBox span {
+  margin-bottom: 10px;
+  display: block;
+}
+.container form .row .col .inputBox input {
+  width: 100%;
+  border: 1px solid #ccc;
+  padding: 10px 15px;
+  font-size: 15px;
+  text-transform: none;
+}
+.container form .row .col .inputBox input:focus {
+  border: 1px solid #000;
+}
+.container form .row .col .flex {
+  display: flex;
+  gap: 15px;
+}
+.container form .row col .flex .inputBox {
+  margin-top: 5px;
+}
+.container form .row col .inputBox img {
+  width: 50px;
+  height: 34px;
+  margin-top: 5px;
+  filter: drop-shadow(0 0 1px #000);
+}
+.container form .submit-btn {
+  width: 100%;
+  padding: 12px;
+  font-size: 17px;
+  color: #27ae60;
+  border: 1px solid #27ae60;
+  margin-top: 5px;
+  cursor: pointer;
+}
+.container form .submit-btn:hover {
+  background-color: #2ecc71;
+  color: #fff;
+}
+.img-form {
+  width: 44px;
+  height: 44px;
+}
+.form-input {
+  display: flex;
+  justify-content: space-between;
+}
+
+.btn {
+  text-decoration: none;
+  display: inline-block;
+  width: 100%;
+  height: 50px;
+  line-height: 45px;
+  border-radius: 45px;
+  margin: 10px 20px;
+  font-family: "Montserrat", sans-serif;
+  font-size: 16px;
+  text-transform: uppercase;
+  text-align: center;
+  letter-spacing: 3px;
+  font-weight: 600;
+  color: #524f4e;
+  background: white;
+  box-shadow: 0 8px 15px rgba(0, 0, 0, 0.1);
+  transition: 0.3s;
+  margin-top: 25px;
+}
+.btn:hover {
+  background: #2ee59d;
+  box-shadow: 0 15px 20px rgba(46, 229, 157, 0.4);
+  color: white;
+  transform: translateY(-7px);
+}
+
+#inp[type="text"] {
+  width: 80px;
+  height: 44px;
+}
+
+#card-name {
+  margin-left: 27px;
+}
+.container form .row {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 15px;
+}
+
+/* @media screen and (max-width: 426px) {
+  .row {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+} */

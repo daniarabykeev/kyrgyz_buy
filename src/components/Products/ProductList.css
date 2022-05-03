@@ -1,0 +1,66 @@
+.product_list {
+  display: flex;
+  justify-content: start;
+  flex-wrap: wrap;
+  margin: 10px auto;
+}
+
+.list_title {
+  margin: 10px auto;
+  padding: 10px;
+  max-width: 600px;
+  text-align: center;
+  font-family: "Nanum Myeongjo", serif;
+  font-size: 1.2rem;
+}
+
+.pagination {
+  display: flex;
+  justify-content: center;
+  margin: 30px auto;
+}
+.search {
+  width: 30vw;
+}
+.filters {
+  width: 30vw;
+}
+.search_filters {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  margin: 0 20px;
+}
+.products-search {
+  display: flex;
+  align-items: center;
+}
+
+.filter_txt {
+  font-family: "Nanum Myeongjo", serif;
+  cursor: pointer;
+  margin: 0 10px;
+}
+
+@media screen and (max-width: 426px) {
+  .products-search {
+    display: flex;
+    flex-direction: column;
+    width: 80vw;
+  }
+  .filters {
+    width: 80vw;
+  }
+  .search {
+    width: 80vw;
+  }
+  .list_title {
+    font-size: 1rem;
+  }
+}
+/*list styles */
+.cards-by-type {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

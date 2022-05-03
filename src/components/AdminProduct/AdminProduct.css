@@ -1,0 +1,17 @@
+.admin_list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin: 10px auto;
+}
+
+.admin_card {
+  margin: 10px;
+  width: 200px;
+  height: 200px;
+}
+
+.card_img {
+  height: 230px;
+  width: 200px;
+}

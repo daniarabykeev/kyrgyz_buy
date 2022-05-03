@@ -1,0 +1,432 @@
+html {
+  font-size: 62.5%;
+  width: 100%;
+  height: 100%;
+}
+
+body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+  font-size: 1.4rem;
+}
+
+h1 {
+  font-size: 2.4rem;
+}
+/* 
+.container {
+
+} */
+
+.container__item {
+  margin: 0 auto;
+}
+
+.landing-page-container {
+  width: 100vw;
+  min-height: 100%;
+  height: 100vh;
+  /* background-image: url(./sources/bg.jpeg); */
+  background-position: bottom;
+  background-repeat: no-repeat;
+  background-size: cover;
+  overflow: hidden;
+  display: table;
+  color: #09383e;
+}
+
+#bg {
+  position: fixed;
+  z-index: -1;
+  width: 100vw;
+  height: 100vh;
+  opacity: 100%;
+}
+
+.content-wrapper {
+  width: 100vw;
+  height: 100%;
+  position: relative;
+}
+.content-wrapper-2 {
+  max-width: 1200px;
+  margin: 0 auto;
+  width: 90%;
+}
+.header {
+  width: 100%;
+  height: 2rem;
+  padding: 3rem auto;
+  display: block;
+}
+
+.menu-icon {
+  width: 2.5rem;
+  height: 1.5rem;
+  display: inline-block;
+  cursor: pointer;
+  margin-top: 30px;
+}
+
+.header__item {
+  display: inline-block;
+  float: left;
+}
+
+.menu-icon__line {
+  width: 1.5rem;
+  height: 0.2rem;
+  background: #0c383e;
+  display: block;
+  /* margin-top: 30px; */
+}
+
+.menu-icon__line:before,
+.menu-icon__line:after {
+  content: "";
+  width: 1.5rem;
+  height: 0.2rem;
+  background: #0c383e;
+  display: inline-block;
+  position: relative;
+}
+
+.menu-icon__line:before {
+  left: 0.5rem;
+  top: -0.6rem;
+}
+
+.menu-icon__line:after {
+  top: -1.8rem;
+}
+
+.heading {
+  width: 90%;
+  font-size: 2rem;
+  font-weight: bold;
+  line-height: 1.7rem;
+  margin: 0 30px;
+  text-align: center;
+  margin-top: 30px;
+}
+
+.social-container {
+  width: 7.25rem;
+  list-style: none;
+  overflow: hidden;
+  padding: 0;
+  margin: 0;
+  float: right;
+  margin-top: -20px;
+}
+
+.social-container .social__icon {
+  width: 1.5rem;
+  float: left;
+  cursor: pointer;
+}
+
+.social-container .social__icon .social__icon--dr {
+  margin-left: 1.25rem;
+}
+
+.social-container .social__icon .social__icon--in {
+  margin-left: 1.5rem;
+}
+
+.social-container .social__icon .social__icon--fb img {
+  margin: 0 0.25rem;
+}
+
+.coords {
+  font-size: 1.2rem;
+  display: inline-block;
+  float: left;
+  position: relative;
+  top: 40%;
+  letter-spacing: 0.2rem;
+  left: -11.5rem;
+  margin: 0;
+  transform: rotate(-90deg) translateY(50%);
+  margin-top: 250px;
+}
+
+.ellipse-container {
+  width: 50rem;
+  height: 50rem;
+  border-radius: 50%;
+  margin: 0 auto;
+  position: relative;
+  top: 7rem;
+}
+
+.ellipse-container .greeting {
+  position: relative;
+  /* top: 11rem; */
+  /* left: -16.5rem; */
+  right: 0;
+  margin: 0 auto;
+  text-transform: uppercase;
+  letter-spacing: 4rem;
+  font-size: 7rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 600;
+  opacity: 0.5;
+}
+
+.greeting {
+  position: relative;
+  top: 19rem;
+  left: -13rem;
+  right: 0;
+  margin: 0 auto;
+  /* text-transform: uppercase; */
+  letter-spacing: 4rem;
+  font-size: 5rem;
+  font-family: "Montserrat", sans-serif;
+  font-weight: 300;
+  opacity: 0.5;
+  color: white;
+}
+
+/* .greeting-1{
+    top: 10rem;
+    left: 5rem;
+}
+
+.greeting-2{
+    top: 8rem;
+    left: -16.5rem;
+}
+
+.greeting-3{
+    top: 9rem;
+    left: 18rem;
+    margin-top: 30px;
+    margin-bottom: 30px;
+} */
+
+.ellipse-container .greeting:after {
+  content: "";
+  width: 0.3rem;
+  height: 0.3rem;
+  border-radius: 50%;
+  display: inline-block;
+  background-color: #0c383e;
+  position: relative;
+  top: -0.65rem;
+  left: -5.05rem;
+}
+
+.ellipse {
+  border-radius: 50%;
+  position: absolute;
+  top: 0;
+  border-style: solid;
+}
+
+.ellise__outter--thin {
+  width: 100%;
+  height: 100%;
+  border-width: 1px;
+  border-color: rgba(9, 56, 62, 0.1);
+  animation: ellipseOrbit 15s ease-in-out infinite;
+}
+
+.ellise__outter--thin:after {
+  content: "";
+  background-image: url("./sources/с3.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  color: white;
+  position: absolute;
+  opacity: 0.3;
+  width: 100%;
+  height: 100%;
+}
+
+.ellipse__outter--thick {
+  width: 99.5%;
+  height: 99.5%;
+  border-color: #09383e transparent;
+  border-width: 2px;
+  transform: rotate(-45deg);
+  animation: ellipseRotate 15s ease-in-out infinite;
+}
+
+.ellipse__orbit {
+  width: 2.5rem;
+  height: 2.5rem;
+  border-width: 2px;
+  border-color: #09383e;
+  top: 5rem;
+  right: 6.75rem;
+}
+
+.ellipse__orbit:before {
+  content: "";
+  width: 0.7rem;
+  height: 0.7rem;
+  border-radius: 50%;
+  display: inline-block;
+  background-color: #09383e;
+  margin: 0 auto;
+  left: 0;
+  right: 0;
+  position: absolute;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.about {
+  /* margin-top: 2000px; */
+  font-style: normal;
+  font-size: 2.75rem;
+  line-height: 1.6;
+  /* margin: 0 0 0.5em; */
+  text-align: center;
+  width: auto;
+  margin: 30px;
+}
+
+.second-section-container {
+  /* margin-top: 50px; */
+  margin: 0 20px;
+
+  /* margin-left: 150px;
+    margin-right: 150px; */
+  /* display: flex; */
+}
+
+.second-section-half {
+  width: 45%;
+}
+
+.card-description {
+  width: 280px;
+  margin-left: 20px;
+  font-size: 15px;
+  line-height: 1.7;
+}
+
+.card {
+  width: 300px;
+  height: 200px;
+  background-color: #333;
+  border-radius: 10px;
+  outline: 1px solid rgba(255, 255, 255, 0.5);
+  outline-offset: -8px;
+  box-shadow: 3px 3px 10px rgba(0, 0, 0, 0.1);
+  position: relative;
+  overflow: hidden;
+}
+
+.card-image {
+  position: absolute;
+  inset: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+  opacity: 0.6;
+  transition: transform 0.75s;
+}
+
+.card:hover .card-image {
+  transform: scale(1.15);
+}
+
+.card-title {
+  position: absolute;
+  left: 15px;
+  color: white;
+  bottom: 15px;
+  font-size: 20px;
+  text-shadow: 0 0 1px rgba(0, 0, 0, 0.5);
+}
+
+.four-cards {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+}
+.dost {
+  display: flex;
+  justify-content: center;
+  font-family: "Nanum Myeongjo", serif;
+}
+
+.third-section {
+  margin-top: 80px;
+  width: 100%;
+  height: 35vh;
+  /* background-color: rgb(255,224,26); */
+  background: rbg(250, 219, 28);
+  display: flex;
+}
+
+#yel {
+  height: 33vh;
+  margin-left: 60px;
+}
+
+.top-places {
+  margin: 30px;
+  text-align: center;
+  font-size: 3rem;
+  font-family: "Nanum Myeongjo", serif;
+  font-weight: bolder;
+}
+.top-places span {
+  color: rgb(214, 48, 48);
+}
+
+@keyframes ellipseRotate {
+  0% {
+    transform: rotate(-45deg);
+  }
+  100% {
+    transform: rotate(-405deg);
+  }
+}
+
+@keyframes ellipseOrbit {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+
+@media (max-width: 320px) {
+  .about {
+    font-size: 1.75rem;
+    margin: 0 10px;
+  }
+}
+@media (max-width: 375px) {
+  .about {
+    font-size: 1.75rem;
+    margin: 0 10px;
+  }
+}
+@media (max-width: 425px) {
+  .about {
+    font-size: 1.75rem;
+    margin: 0 10px;
+  }
+  .social-container {
+    width: 4.25rem;
+    list-style: none;
+    overflow: hidden;
+    padding: 0;
+    margin: 0;
+    float: right;
+    margin-top: -20px;
+  }
+}

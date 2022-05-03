@@ -1,0 +1,18 @@
+.order-page{
+    background-color: rgb(252,242,232);
+    width: 100vw;
+    height: 100vh;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#order{
+    width: 28vw;
+    /* height: 70vh; */
+    margin-bottom: 10vh;
+}
+
+#btn-order{
+   width: 400px;
+}
+

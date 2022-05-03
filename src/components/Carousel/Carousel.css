@@ -1,0 +1,48 @@
+.carousel_inner {
+  width: 80vw;
+  height: auto;
+  margin: 20px auto;
+}
+
+.carousel_img {
+  filter: alpha(Opacity=50);
+  opacity: 0.3;
+  width: 80vw;
+
+  height: auto;
+  position: relative;
+  /* width: 100%; */
+}
+
+.carousel_txt {
+  position: absolute;
+  bottom: 70px;
+  margin: 0 auto;
+  width: 80vw;
+  text-align: center;
+  color: aliceblue;
+  font-family: "Akshar", sans-serif;
+}
+@media screen and (max-width: 426px) {
+  .carousel_txt {
+    font-size: 10px;
+    bottom: 10px;
+  }
+}
+
+.carousel_body {
+  margin-bottom: 0;
+}
+
+.carousel_title {
+  margin: 30px;
+  text-align: center;
+  font-size: 3rem;
+  font-weight: bolder;
+  /* font-family: "Pacifico", cursive; */
+  /* font-family: 'Akshar', sans-serif; */
+  font-family: "Nanum Myeongjo", serif;
+}
+.carousel_title span {
+  color: rgb(214, 48, 48);
+}

@@ -1,0 +1,22 @@
+.edit_products {
+  padding: 20px;
+}
+.edit_box {
+  margin: 20px auto;
+  width: 400px;
+}
+
+.edit_title {
+  margin: 10px auto;
+  padding: 10px;
+  /* max-width: 600px; */
+  text-align: center;
+  font-family: "Nanum Myeongjo", serif;
+}
+
+@media screen and (max-width: 360px) {
+  .edit_box {
+    width: 280px;
+    margin: 10px auto;
+  }
+}

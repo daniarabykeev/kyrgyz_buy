@@ -1,0 +1,5 @@
+.add_btn {
+  display: flex;
+  justify-content: flex-end;
+  margin: 10px;
+}

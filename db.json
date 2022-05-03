@@ -1,0 +1,166 @@
+{
+  "products": [
+    {
+      "name": "Komuz",
+      "description": "The komuz or qomuz (Kyrgyz: комуз Kyrgyz pronunciation: [qoˈmuz], Azerbaijani: Qopuz, Turkish: Kopuz) is an ancient fretless string instrument used in Central Asian music, related to certain other Turkic string instruments, the Mongolian tovshuur, and the lute.[1]\n\nIt is the best-known national instrument and one of the better-known Kyrgyz national symbols. The komuz is generally made from a single piece of wood (usually apricot or juniper) and has three strings traditionally made out of gut, and often from fishing line in modern times. In the most common tunings the middle string is the highest in pitch. Virtuosos frequently play the komuz in a variety of different positions; over the shoulder, between the knees and upside down. An illustration of a komuz is featured on the reverse of the one-som note.",
+      "made in": "Kyrgyzstan",
+      "price": 100,
+      "type": "music",
+      "image": "data:image/jpeg;base64,/9j/4AAQSkZJRgABAQAAAQABAAD/2wCEAAkGBw8SEhASEw8WFhUQEBAPEBUQEhIVEhUQFRIXFxYWFRUYHSggGRooGxMWITEhJSkrLy4uFx8zODMsNygtLisBCgoKDg0OGhAQGy0lICUtLS0tLTUtLTUyNS0tLS0tLSstKy0tLS0tLS0tKy0tLS0uLS0tKy04LS0tNTctNy0tLf/AABEIALUBFgMBIgACEQEDEQH/xAAcAAEAAQUBAQAAAAAAAAAAAAAABgIDBAUHAQj/xAA5EAACAgECAwUFBQgDAQEAAAAAAQIDEQQhBRIxBkFRYXEHEyKBoTJSkbHRIzNCU2JygvBj4fGSFP/EABkBAQADAQEAAAAAAAAAAAAAAAACAwQBBf/EACERAQEBAAICAgIDAAAAAAAAAAABAgMRITESMgRBEyKh/9oADAMBAAIRAxEAPwDhwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAD1G41nBUlV7qbsnZjFcYty6btNbY5lg5b0lM2+mmBOeAdgLZuEtTLki2vgg4uxrGcZ6R7vHqjSdsuBrSahwjn3c1z1ZeXy96b8UyM3m3qJXj1J3Y0IAJqwAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAADK4fw66+ShTVKcvCCbx5t9EvN7AeafQ22JyhXKSim5OMW8JdW8Gb2crhK5KVTt2fLCMXJOT2WUu7dv5ImnBOyeooioai5wU8xddMmpxbWUpTj97dYWVsyV6WvQaKpy/Z01rK5pNrnwt0njmsls9kpPfoZ9cvfeY144ZOtX/UQ0nYD3ljna1XDpGqlfFsv4pPKh0/PwZLqdJpNDWp80Ka/vWSw5Ply0nvKcvtbRTe68CKdoPaWvihpKn1wrbknhLK+Cl5Xg05N9X8O+3P+Ia+6+bstslOb25pybePBZ6LfotkdnHqz+1c1zZlvwie8a9o6jmGkrfg7b11f3o1d++/x57vhIFxDX23zdltkpyfVyefkl0S8kYwLpmT0z63dewAHUQAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAM7hnCb9RLlpqc33tbRXrJ7IW9OyW+IwTM4bw2/UTUKapTk+6Czjzb6JebJ5wT2dQXLPVWqS68lbah6OfWXpFfMmiv0ujq6V0Vrva5U3juj9qcvXL8im809Z8tOfxr734RLs/7M4xxPWWbJrNVL23+/Z0+Udybz1Oh0NXwquitZ3+zl+WPinLy7zn/aH2k5bjpoN4297cl+MK+i7uv4EC1+utum522SnJ983nbwXgvJD4a19nLyYx9Ynfan2hqxuOlqwunvLUu6WU4VrZYe6cs/ae25BNfrrrpuy22U5vrKcm3jwXgvJbIxgWZzM+lGt3XsABJEAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAepG74V2Y1V+JKvkg/wCO34Y48u9/I5bJ7SxjWr1I0hsuFcC1Oo/d1vlXWcvhrXrJ7fIm/DOyGmqw5r3sv+RNQ+UFvL5kkv5ao81k41whtmeIpeUY9E/Ldmff5HnrMbuP8Lx3u+EX4L2Johyyvl7x90UnGvPh96f0RK7p0aetOUoU1x6ZUYxz/TBbZ8t35EP4z29hHMdLDL6e9tTx6xg93/lj0IPr9fddNztslOXjJ9F4JdEvJHJx7353TXPxcXjinadca9oSjmOlg29172/d/wCMP12/pILxDX3Xzc7bJTl4zecLwS6JeSMYGjOJn0x75db+1AASVgAAAAAAAAAAAAAAAAAAAAAD1Rb6b+hfWiue6qnjxUJY/IDHBlx4ZqH0osfpXP8AQzNN2X4jY0oaG957/c2JfOTWEO4NQCdcL9lPFLd7IV0Ryt7rIt48o18zz5PBMeE+yXQ149/bZfL7sUqqvR4zJ+qkivXLmftOceq4zp9POcowhFylLaMYJyk35Jbsm3AvZZxC7Du5dPB/zPitx5Vrp6ScTtfCuC6fTx5aaa6k+qqik3/dLq/m2bKFaX/ZVee36rJxSe0B0Hsk4bGK51Za++U7HBfKMMY+pp+PeybTQanTfONef2kJ8sms9OWe23qn3HWl/v8AvcUXU8ylF9JJp+P4kLrf6qUme/Mch4Z2d0lGHGrMunNauaWfGMf/AA21liw5zajGKzKU2sKK9fhgjB7T8d02hlOuSc7k3+zg90nnDssfRPw3b2eFszl/GuOX6qSdktlvCuGVXH0jnr5vL8yvj4d786buT8nj4p1iJjxjt3XW3HTR95Lo7LM8mfJfal9Ft0ZB+JcSvvlz22ym+7PRLwjFbRXkjEyeG3HHnHp5vLzb5PtQAE1QAAAAAAAAAAAAAAAAAAAAAAEi7C9nJa/VQp3VcV7y+S7qk90n4vaK9c9wt6IyuxPYTVcQfMv2dCeJWyTeX3qtfxP6L6HaeA9g+G6RLl08ZzXWy9KyefFZWI/4pG/0emhXCNdcVCFcVGEYrCUUtkkX8mLk5br00ZxIVQUVskv7dg7GWpzwWXZN9NvUq+Scx2yZWY6yMeWoz9lZ8y2qvF5L0I9y/BHO7Vnxzlb91ndv5Lcu1pJdMfmVqOP+v1Hp9P1JSdI3XbzP+95XWUci9fQrWTk15RsXUWNfraaa522TUIVpynKTwkv18iI9rfaRodFzQi/f3rb3dclyxf8AyWdF6LL9DinajtbrNfPmut+FPMKofDVD0j3vzeWasYt8qbqRY7V8Y/8A16vU6jDSutcop9VBfDDPnypGoANCoAAAAAAAAAAAAAAAAAAAAAAAAAAA7b7C9Co6XUXY+K3Ue7z/AEVwTX1nI4kfQfsW5XwyHitRen65i/yZXyfVLHtOSxOxf+GRJrBb5F3mS5aM1jRurzhzjnGccy5sehfSyafiNcYWRs5I4adUpSzhRnLaXN5Sx8pM2PD3lNNp4eNuhyZ8+U767jIUF4foVchU2inJ23M9Id0k0UZZXykR7f8Abenh1fLFKzUWRzXX3RXdO3G6j4LrLy6qMzrd8Fskbvj3HdLoq/e6ixQXSK62TfhCPV/ku/BxTth7TdVq+aunNFL2xB/tZr+ua6LyX1Ijxji+o1Vsrr7HOcu99Eu6MV0jFeCME2Y4ZlRrdr1ngBagAAAAAAAAAAAAAAAAAAAAAAAAAAAAAB2n2L8Zrq0GqVkv3eq5orDbfPXHaK794M4sSfsN2jhpbJ13RctPqHWruX95Dle04eaTaa70yOp3Es2S+XYLe1l87VCqPLzP4I4jKyXrl4S/ty0SjhcrGs2Rlnr8aa+jSf0Rf4RRpo1xlp4w5LYqcZ14fvItbSc+svmZjiZZmz9tGuTN8SLF9MZxcZRTjJYafTDFdMYpKMUklhJLYvvAwLO0PktcoS8i40YnFuJU6amy+6ajXVHmk/okl3ybaSXix8fJ20Xb3tVXw7Tue0rrMx09b/in3yljfkjlN+OUu8+btfrbb7J222Oc7JOc5S6t/wC93cbPtf2jt1+ps1Fm2fgqguldKb5YLx6tt97bZpDTjMzFNvYACbgAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAepngAnPs89oVvD37qzNmllJtwX265PrOvP1j0fk9zvXBeN6bVwVmnujZHv5X8UfKcHvF+p8mF7S6u2qSnXZKEl0lXJxkvSS3I6xK7K+vSnmPmrS+0jjMEktdKSX8yFU3/APUot/Uo1ntE4xYmpa6aT/lxhW/xhFP6lf8AHpL5R9Bdoe0ej0UHPUXKH3YLe2flGC3fr0OB9vu3V3EpqKTrork3VVnLb6c9j75Y7uiy/NuKXXznJynNylL7Uptyk/VvdlsnnEjl12AAmiAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA//2Q==",
+      "id": 3
+    },
+    {
+      "name": "Ooz komus",
+      "description": "Ooz komuz is an ancient fretless string instrument used in Kyrgyz music, closely related to other Turkic string instruments and the lute. It is the best-known national instrument and one of the better-known Kyrgyz national symbols. The komuz is generally made from a single piece of wood (usually apricot or juniper) and has three strings traditionally made out of gut, modernly made from fishing line. In the most common tunings the middle string is the highest in pitch.",
+      "made in": "Kyrgyzstan",
+      "price": 85,
+      "type": "music",
+      "image": "https://ru-static.z-dn.net/files/da4/b02ad10bc78eb4400e547c3c01db47f5.jpg",
+      "id": 4
+    },
+    {
+      "name": "Kyl kyiak",
+      "description": "Kyl kyyak (or kyyak) is a national Kyrgyz, bowed string instrument. Folk kyyak is made from apricot or walnut wood. It has two strings and a bow (jaa). The shape of the kyyak is similar to an inverted pear, the short neck is slightly arched, and two wooden pegs are attached to the round head. The upper half of the instrument is open, while the lower half is covered camel skin.",
+      "made in": "Kyrgyzstan",
+      "price": 240,
+      "type": "music",
+      "image": "https://img5.lalafo.com/i/posters/original/cb/ac/473b81485ea9e2c4cf537b44ee3c.jpeg",
+      "id": 5
+    },
+    {
+      "name": "Dobulbash",
+      "description": "Dobulbas is a Kyrgyz percussion instrument belonging to the group of membranophones. This is a single-sided wooden drum with a leather membrane. The height of the instrument is 50-70 cm, the diameter is 25-30 cm. In ancient times, the sound was extracted by hitting the membrane with the handle of a Kyrgyz whip (kamcha) or with the palm of your hand, and the modern dobulbas is played with wooden sticks with soft felt balls at the ends.",
+      "made in": "Kyrgyzstan",
+      "price": 250,
+      "type": "music",
+      "image": "http://trz.patent.kg/uploads/%D0%94%D0%BE%D0%B1%D1%83%D0%BB%D0%B1%D0%B0%D1%81.jpg",
+      "id": 6
+    },
+    {
+      "name": "Dool",
+      "description": "It is a percussion music. instrument, double-sided drum with a wide (300-400 mm) wooden shell and membranes made of calf or mutton skin (diameter 340-500 mm). The upper membrane is much thicker than the lower one. They play D. with two sticks - a thick one and a thin one (they hit the upper membrane with a thick stick, accentuating the rhythm) or with their hands, beating strong beats of the beat with the right on the upper membrane, and with the left they hit the lower one, performing small durations. D. is used in an ensemble with zurns, accompanies dances, processions.",
+      "made in": "Kyrgyzstan",
+      "price": 180,
+      "type": "music",
+      "image": "data:image/jpeg;base64,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",
+      "id": 7
+    },
+    {
+      "name": "Karsyldak",
+      "description": "a pair of wooden spoon-shaped ajar boxes, fastened together at the narrow ends. The largest width of one piece is 10 cm, length is 20 cm.\n\n“Tuned” differently due to unequal sizes, they make clicking sounds of different pitches when lightly struck.",
+      "made in": "Kyrgyzstan",
+      "price": 115,
+      "type": "music",
+      "image": "https://www.open.kg/uploads/posts/2014-11/1415288186_karsyldak.jpg",
+      "id": 8
+    },
+    {
+      "name": "Kalpak",
+      "description": "is a high-crowned cap (usually made of felt or sheepskin) worn by Circassians, Dagestanis, Chechens, men in Turkey, Ukraine, the Balkans and throughout Central Asia and the Caucasus.\n\nThe kalpak is used to keep the head warm in winter and shade out the sun during summer. There are different kalpaks for different seasons, with kalpaks used in winter being thicker and the ones used in summer being thinner but broader for shading purposes.",
+      "made in": "Kyrgyzstan",
+      "price": 75,
+      "type": "clothes",
+      "image": "https://eleps.ru/upload/medialibrary/83d/kalpak_eleps.png.pagespeed.ce.5UINGT2_l4.png",
+      "id": 9
+    },
+    {
+      "name": "Chapan",
+      "description": "a kaftan worn by men and women over clothing, usually during the cold winter months. It is popular in Central Asia, including Uzbekistan, Afghanistan, Tajikistan, Kazakhstan, Kyrgyzstan and other neighboring countries. They sew a chapan on wadding or camel wool with a cotton lining. Until the middle of the 20th century, they were worn in Bashkiria, Chuvashia. In the old days, the lining was made of mat - a cheap white or printed cotton fabric. From above it was covered with velvet, cloth, velveteen. Currently, chapans are worn by both the elderly and young people.",
+      "made in": "Kyrgyzstan",
+      "price": 300,
+      "type": "clothes",
+      "image": "https://images.satu.kz/92970072_w640_h640_muzhskoj-natsionalnyj-chapan.jpg",
+      "id": 10
+    },
+    {
+      "name": "Beldemchi",
+      "description": "Beldemchi. Traditional clothes of the Kyrgyz. The work of masters from Kyrgyzstan.",
+      "made in": "Kyrgyzstan",
+      "price": 390,
+      "type": "clothes",
+      "image": "https://img5.lalafo.com/i/posters/original/49/2d/a2/ac1ba757642bafda8879e7dd82.jpeg",
+      "id": 11
+    },
+    {
+      "name": "Shokulo",
+      "description": "Shokulo is an ancient bride's headdress. A wedding headdress was put on the bride's head and her face was covered with a burkonchek veil. This is a tall cone with a veil to cover the girl's face. Among the Pamir Kyrgyz, the veil was called chumkot, and the headdress was called kalak. With the move to the groom, such ceremonies as changing the wedding headdress took place - instead of a shokulo, an elechek - a white turban - was put on the bride's head.",
+      "made in": "Kyrgyzstan",
+      "price": 490,
+      "type": "clothes",
+      "image": "https://www.elitclass.com.ua/images/materials/tri-tajny-vishivanki/%D0%BA%D0%B8%D1%80%D0%B3%D0%B8%D0%B7%D1%81%D0%BA%D0%B0%D1%8F_%D0%B2%D1%8B%D1%88%D0%B8%D0%B2%D0%B0%D0%BD%D0%BA%D0%B0.jpg",
+      "id": 12
+    },
+    {
+      "name": "\"lechek",
+      "description": "Elechek is a traditional headdress that symbolizes the status of a woman in the family and the pedigree from which they come.\n\nIn the past, whether a woman was married or not could be judged by the elechek she wore on her head.\n\nYoung girls put it on on their wedding day and never took it off again.\n\nIt was used as a shroud for the deceased when he died.\nIn its manufacture, a thin fabric 15-30 meters long is used, which is folded in half along the length.\n\nThe fabric from which elechek is made for wealthy women can reach 30-40 meters.\n\nFor the Kyrgyz, leading a nomadic lifestyle, elechek is very valuable.\n\nInfants born during the migration were wrapped in a white cloth torn from the elechek and swaddled.\n\nElechek was also used as a dressing for wounds.",
+      "made in": "Kyrgyzstan",
+      "price": 390,
+      "type": "clothes",
+      "image": "https://data.kaktus.media/image/big/2016-10-07_14-12-43_860474.jpg",
+      "id": 13
+    },
+    {
+      "name": "Chyptama",
+      "description": "Womens clothe",
+      "made in": "Kyrgyzstan",
+      "price": 230,
+      "type": "clothes",
+      "image": "https://re.kg/image/ac1a5aab-b205-4889-868e-e8ad3967245f/500/500/%D0%BD%D0%B0%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F-%D0%BE%D0%B4%D0%B5%D0%B6%D0%B4%D0%B0-%D0%BF%D0%BB%D0%B0%D1%82%D1%8C%D1%8F-%D0%BD%D0%B0-%D0%BA%D1%8B%D0%B7-%D1%83%D0%B7%D0%B0%D1%82%D1%83%D1%83-%D1%87%D0%B5%D0%BF%D0%BA%D0%B5%D0%BD%D1%8B-%D1%87%D1%8B%D0%BF%D1%82%D0%B0%D0%BC%D0%B0-%D1%81%D1%8E%D1%80%D1%82%D1%83%D0%BA%D0%B8-%D0%B1%D0%B5%D0%BB%D1%8C%D0%B4%D0%B5%D0%BC%D1%87%D0%B8?set=True&path=000000000059513%2Fac1a5aab-b205-4889-868e-e8ad3967245f.jpg",
+      "id": 14
+    },
+    {
+      "name": "Shyrdak",
+      "description": "The most popular type of felt carpet in Kyrgyzstan today is shyrdak. It is made using mosaic technique, which is one of the most difficult, while one of the most important qualities of shirdak is durability. The average service life of a shyrdak is about 100 years, sometimes even more.\n\nMaking one shyrdak carpet is a laborious process, so it takes 2 to 6 months for craftswomen to make one carpet, provided that she only deals with this carpet, but most often Kyrgyz women work in groups, which mainly include representatives of the same family.",
+      "made in": "Kyrgyzstan",
+      "price": 500,
+      "type": "interior",
+      "image": "https://handmade.kg/wa-data/public/shop/products/00/webp/36/05/536/images/753/753.970.webp",
+      "id": 15
+    },
+    {
+      "name": "Tush kiyiz",
+      "description": "“Tush kiyiz” is a letter from a mother to her daughter through a dowry. In the patterns you can read the most important wishes for the life of the future family: health, prosperity, peace, love and mutual respect.\n\nThe family that read these wishes of Bata in the patterns, and that lives and tries to keep all the blessings from mom or grandmother, to be respectful of each other and does not accept domestic violence.\n\nThe Ak Bata project explains that every woman is not alone and that behind her are relatives and the power of blessing bestowed through Tush Kiyiz embroideries.",
+      "made in": "Kyrgyzstan",
+      "price": 490,
+      "type": "interior",
+      "image": "https://media-cdn.tripadvisor.com/media/photo-s/0f/ea/cc/9e/caption.jpg",
+      "id": 16
+    },
+    {
+      "name": "Shyrdak",
+      "description": "The most popular type of felt carpet in Kyrgyzstan today is shyrdak. It is made using mosaic technique, which is one of the most difficult, while one of the most important qualities of shirdak is durability. The average service life of a shyrdak is about 100 years, sometimes even more.",
+      "made in": "Kyrgyzstan",
+      "price": 370,
+      "type": "interior",
+      "image": "https://i.pinimg.com/474x/bb/cd/3f/bbcd3f31690fb8267dc6e86f7afe1ba8--felt-art-rug-hooking.jpg",
+      "id": 17
+    },
+    {
+      "name": "Kurak",
+      "description": "Kurak is the name given to various types of items made from scraps sewn together. The name comes from the word \"kura\", which means \"sewn together - assembled from separate pieces\" and refers to both finished products and the method of their production. This type of handicraft can be found throughout Central Asia. It was also practiced throughout Kyrgyzstan, but especially in the south.",
+      "made in": "Kyrgyzstan",
+      "price": 200,
+      "type": "interior",
+      "image": "https://media.tezsat.kg/media/products/medium_thumbnail/fcba45c0-246b-4302-b46f-8621e7e758c8.jpg",
+      "id": 19
+    },
+    {
+      "name": "Chiy",
+      "description": "Chiy is made from a kind of reed, or grass that grows in the steppe, where it is collected and dried. The reed itself is strong and when woven together with multicolored wool, they form a durable carpet that will last a long time and which can then be decorated or left as is.",
+      "made in": "Kyrgyzstan",
+      "price": 120,
+      "type": "interior",
+      "image": "https://i.ytimg.com/vi/KDuUTAJ39Ug/maxresdefault.jpg",
+      "id": 20
+    },
+    {
+      "name": "Burana",
+      "description": "Burana",
+      "made in": "Kyrgyzstan",
+      "price": 100,
+      "type": "tours",
+      "image": "https://too.kg/wp-content/uploads/1408790825_old-burana-tower-1024x536.jpg",
+      "id": 21
+    }
+  ]
+}

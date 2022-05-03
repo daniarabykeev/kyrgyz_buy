@@ -1,0 +1,186 @@
+<div>
+        <div className="container__item landing-page-container">
+          {/* <img id="bg" src={bg} alt="" style={{ height: "100%" }} /> */}
+          <img id="bg" src={bg2} alt="" style={{ height: "100%" }} />
+          <div className="content-wrapper">
+            <Navbar />
+            <div className="content-wrapper-2">
+              <header className="header">
+                <div className="menu-icon header__item"></div>
+
+                <h1 className="heading header__item">.</h1>
+              </header>
+
+              <p className="coords">N 49° 16' 35.173" / W 0° 42' 11.30"</p>
+
+              <div className="ellipse-container">
+                <h2 className="greeting greeting-2">KyrgyzBuy</h2>
+                <div className="ellipse ellise__outter--thin">
+                  <div className="ellipse ellipse__orbit"></div>
+                </div>
+
+                <div className="ellipse ellipse__outter--thick"></div>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+      <div>
+        <p className="about dost">
+          Welcome to Trip to Kyrgyzstan website, where you can find information
+          about tourism in the Kyrgyz Republic, a country where there is so much
+          to discover. We are a tourist information centre and a tour provider.
+          We aim to provide the best level of services for an authentic
+          experience.
+        </p>
+      </div>
+      <p className="top-places">Top Places</p>
+      <div className="four-cards dost">
+
+      <Link to="/tours"
+      style={{color:"black"}}
+      >
+        <div className="second-section-container">
+          <div className="card second-section-half">
+            <img src={burana} alt="" className="card-image" />
+            <h3 className="card-title">Burana tower</h3>
+          </div>
+          <div className="second-section-half">
+            <p className="card-description">
+              The Burana Tower (Russian: Башня Бурана) is a large minaret in the
+              Chüy Valley in northern Kyrgyzstan.
+            </p>
+          </div>
+        </div>
+        </Link>
+      
+        <Link to="/tours"
+      style={{color:"black"}}
+      >
+        <div className="second-section-container">
+          <div className="card second-section-half">
+            <img src={tashrabat} alt="" className="card-image" />
+            <h3 className="card-title">Tash rabat</h3>
+          </div>
+          <div className="second-section-half">
+            <p className="card-description">
+              Tash Rabat is a well-preserved 15th century stone caravanserai in
+              At Bashy district, Naryn Province, Kyrgyzstan located at an
+              altitude of 3,200 meters.
+            </p>
+          </div>
+        </div>
+        </Link>
+
+        <Link to="/tours"
+      style={{color:"black"}}
+      >
+        <div className="second-section-container">
+          <div className="card second-section-half">
+            <img src={ik} alt="" className="card-image" />
+            <h3 className="card-title">Isyk-Kul lake</h3>
+          </div>
+          <div className="second-section-half">
+            <p className="card-description">
+              Issyk-Kul is an endorheic lake (i.e., without outflow) in the
+              Northern Tian Shan mountains in Eastern Kyrgyzstan. It is the
+              seventh-deepest lake in the world, the tenth-largest lake in the
+              world by volume
+            </p>
+          </div>
+        </div>
+        </Link>
+
+        <Link to="/tours"
+      style={{color:"black"}}
+      >
+        <div className="second-section-container">
+          <div className="card second-section-half">
+            <img src={sulaimantoo} alt="" className="card-image" />
+            <h3 className="card-title">Sulaiman Too Mountain</h3>
+          </div>
+          <div className="second-section-half">
+            <p className="card-description">
+              The Sulayman Mountain is the only World Heritage Site located
+              entirely in the country of Kyrgyzstan. It is located in the city
+              of Osh and was once a major place of Muslim and pre-Muslim
+              pilgrimage.
+            </p>
+          </div>
+        </div>
+        </Link>
+
+        <Link to="/tours"
+      style={{color:"black"}}
+      >
+        <div className="second-section-container">
+          <div className="card second-section-half">
+            <img src={sarychelek} alt="" className="card-image" />
+            <h3 className="card-title">Sary-Chelek lake</h3>
+          </div>
+          <div className="second-section-half">
+            <p className="card-description">
+              Sary-Chelek Lake is situated at Jalal-Abad Region (at 1,873 m
+              asl), Western Part of Kyrgyzstan at the territory of Sary-Chelek
+              Nature Reserve.
+            </p>
+          </div>
+        </div>
+        </Link>
+
+        <Link to="/tours"
+      style={{color:"black"}}
+      >
+        <div className="second-section-container">
+          <div className="card second-section-half">
+            <img src={jetioguz} alt="" className="card-image" />
+            <h3 className="card-title">Jeti Oguz Mountain</h3>
+          </div>
+          <div className="second-section-half">
+            <p className="card-description">
+              Jeti Oguz is a sandstone formation about 25 km (15 miles)
+              southwest of Karakol. The name means “seven bulls”, which comes
+              from the fact that the rocks look like seven bulls.
+            </p>
+          </div>
+        </div>
+        </Link>
+
+        <Link to="/tours"
+      style={{color:"black"}}
+      >
+        <div className="second-section-container">
+          <div className="card second-section-half">
+            <img src={sarychelek} alt="" className="card-image" />
+            <h3 className="card-title">Sary-Chelek lake</h3>
+          </div>
+          <div className="second-section-half">
+            <p className="card-description">
+              Sary-Chelek Lake is situated at Jalal-Abad Region (at 1,873 m
+              asl), Western Part of Kyrgyzstan at the territory of Sary-Chelek
+              Nature Reserve.
+            </p>
+          </div>
+        </div>
+        </Link>
+
+
+        <Link to="/tours"
+      style={{color:"black"}}
+      >
+        <div className="second-section-container">
+          <div className="card second-section-half">
+            <img src={jetioguz} alt="" className="card-image" />
+            <h3 className="card-title">Jeti Oguz Mountain</h3>
+          </div>
+          <div className="second-section-half">
+            <p className="card-description">
+              Jeti Oguz is a sandstone formation about 25 km (15 miles)
+              southwest of Karakol. The name means “seven bulls”, which comes
+              from the fact that the rocks look like seven bulls.
+            </p>
+          </div>
+        </div>
+        </Link>
+      </div>
+      <CarouselHome />

@@ -1,0 +1,48 @@
+.main-container {
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+}
+.main-cards {
+  height: 350px;
+  margin-bottom: 120px;
+}
+.main-cards:hover .main_img {
+  filter: blur(1px);
+}
+
+.main-container {
+  font-family: "Akshar", sans-serif;
+}
+.main_title {
+  text-align: center;
+  font-family: "Nanum Myeongjo", serif;
+  margin: 10px auto;
+
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  line-height: 22px;
+}
+.main_title h2 {
+  width: 60vw;
+}
+.main_vacine {
+  width: 100px;
+  height: auto;
+}
+@media screen and (max-width: 426px) {
+  .main_title {
+    text-align: center;
+    font-family: "Nanum Myeongjo", serif;
+    margin: 10px auto;
+    width: 70vw;
+    font-size: 0.7em;
+    line-height: 18px;
+    /* font-size: 1em; */
+  }
+}
+
+.main_card {
+  margin-bottom: 10px;
+}

@@ -1,0 +1,24 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+body {
+  overflow-x: hidden;
+  /* background-image: url("../../final_v2/src/components/Home/sources/bg.jpeg");
+  width: 100vw;
+  min-height: auto;
+  background-repeat: no-repeat;
+  background-size: cover;
+  top: 0%;
+  bottom: 0%; */
+}
+
+/* body {
+  height: 100%;
+  position: fixed;
+  z-index: -1;
+  width: 100vw;
+  height: 100vh;
+  opacity: 100%;
+} */

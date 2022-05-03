@@ -1,0 +1,57 @@
+a {
+  color: #111;
+  /* border-bottom: 1px solid #fff; */
+}
+
+.navbar {
+  background: rgba(0, 0, 0, 0.1);
+  width: 100vw;
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  /* overflow-x: hidden; */
+  /* position: fixed; */
+  z-index: 5;
+}
+
+#eagle {
+  width: 80px;
+  z-index: 5;
+}
+
+.navbar__inner {
+  width: 82%;
+}
+
+/* @media all and (max-width: 426px) {
+  .logoToHide {
+    display: none;
+  }
+}
+@media all and (min-width: 768px) {
+  .logoToHide {
+    display: block;
+  }
+} */
+
+/* @media all and (max-width: 426px) {
+  .bigLogoToHide {
+    display: block;
+  }
+}
+
+@media all and (min-width: 768px) {
+  .bigLogoToHide {
+    display: none;
+  }
+} */
+
+.logo_txt span {
+  color: rgb(214, 48, 48);
+
+  font-family: "Nanum Myeongjo", serif;
+  font-family: "Pacifico", cursive;
+}
+.logo_txt {
+  font-family: "Pacifico", cursive;
+}
